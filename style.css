@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(222, 222, 240);
+    color: rgb(3, 3, 3);
+}
+
+
+#titleText {
+    margin-top: 50px;
+}
+
+#Iam {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#addr {
+    margin-top: 30px;
+}
+
+#btn-title {
+    margin-top: 30px;
+}
+
+#intoText {
+    text-decoration: underline;
+    font-size: 40px;
+    color: rgb(194, 194, 99);
+}
+
+#icon-services {
+    color: blue;
+}
+
+.progress {
+    margin: 10px;
+}
+
+#img-gallery {
+    width: 33.3%;
+    height: 250px;
+    margin-top: 20px;
+    border: 2px solid gray;
+    border-radius: 13px;
+}
+
+/* Background Image */
+
+
+#bg-center{
+    position: relative;
+}
+#comon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    padding: 12px 24px;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+#slider-main{
+    background-color: gray;
+    padding: 100px;
+    color: white;
+}
+
+
+#bg-contac{
+    background-color: rgb(201, 201, 82);
+}
+#what-can{
+    padding-bottom: 100px;
+}
+#contac-head{
+    padding: 44px;
+    margin-bottom: 33px;
+}
+#contac-text{
+    margin-left: 33px;
+    padding: 6px;
+}
+.icon-contac{
+    color: blue;   
+}
+
+#footer{
+    background-color: rgb(27, 27, 29);
+    color: white;
+    height: 100px;
+}
+
+#footer p{
+    margin-top: 50px;
+}
+
+#howcan, #skillM{
+    margin-top: 150px;
+}
+
+#question img{
+    height: 400px;
+}
